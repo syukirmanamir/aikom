@@ -1,4 +1,4 @@
-var tokenBot = '6060828540:AAHf23eg5sV4rXg56fgXsw9FPRCNg0EIh_'; // Your "tokenBot" Here
+var tokenBot = '6060828540:AAHf23eg5sV4rXg56fgXsw9FPRCNg0EIh_k'; // Your "tokenBot" Here
 var chatId = '480631913'; // Your "chatId" Here
 
 /*
